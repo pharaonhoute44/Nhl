@@ -220,4 +220,4 @@ NHL is offered as a full free version, with all features and updates included. T
 Get ready to hit the ice! Download NHL today and join the action!
 
 ---
-**Last updated:** 2026-10-24 11:42:11 UTC
+**Last updated:** 2026-10-24 14:59:45 UTC
